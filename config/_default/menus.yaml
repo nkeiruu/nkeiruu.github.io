@@ -1,0 +1,18 @@
+# Navigation Links
+#   The weight parameter defines the order that the links will appear in.
+#   To ensure you can get to homepage section from any page, add a slash before the #
+
+main:
+  - name: Home
+    url: /
+    weight: 10
+  - name: Topics
+    url: tags/
+    weight: 20
+  - name: Uses
+    url: uses/
+    weight: 30
+  - name: Events
+    weight: 40
+    url: '/#events'
+

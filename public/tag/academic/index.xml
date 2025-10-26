@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Academic | Nkeiru C.</title><link>http://localhost:1313/tag/academic/</link><atom:link href="http://localhost:1313/tag/academic/index.xml" rel="self" type="application/rss+xml"/><description>Academic</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Aug 2025 00:01:26 -0400</lastBuildDate><image><url>http://localhost:1313/media/icon_hu_a0dc1595079f9789.png</url><title>Academic</title><link>http://localhost:1313/tag/academic/</link></image><item><title>Tips for starting a physics major at community college</title><link>http://localhost:1313/blog/ccphysics/</link><pubDate>Sun, 17 Aug 2025 00:01:26 -0400</pubDate><guid>http://localhost:1313/blog/ccphysics/</guid><description>&lt;h2 id="looking-to-study-physics-why-not-start-at-community-college">Looking to study physics? Why not start at community college?&lt;/h2>
+&lt;p>Whether you are in secondary school, an adult looking to return to college, or already in community college, this article will give you the inside scoop on how to do it. This article is most relevant to readers in the United States.&lt;/p>
+&lt;h2 id="why-commmunity-college">Why commmunity college?&lt;/h2>
+&lt;pre>&lt;code>1. It is cheaper than doing a degree only a 4-year college.
+2. It is more accessible to those who need to maintain full or part time jobs.
+3. You can still access oppurtunities to do physics research through summer internships
+&lt;/code>&lt;/pre>
+&lt;p>First, let me play devil&amp;rsquo;s advocate. Why not commmunity college?&lt;/p>
+&lt;pre>&lt;code>1. Nothing matches a full ride scholarship to a 4-year college.
+2. Harder to get in-semester physics research experiences.
+3. Likely a lack of peers also pursuing physics.
+&lt;/code>&lt;/pre>
+&lt;p>Now that you have both sides, let&amp;rsquo;s dig in.&lt;/p>
+&lt;p>Join the larger physics community on day one. Organizations like the American Physical Society (which supports the National Mentoring Community and the Conference of Women in Physics), the National Society of Black Physicsists, American Association of Physics Teachers, Society of Indigenous Physicists, the American Astronomical Society, the National Society of Hispanic Physicsists and more have student sections which you can join (for free or low cost) no matter where you go to college. Getting involved in the student section of a national organization will help you see the bigger picture and connect with more experienced physicists. It can also keep you motivated in the arduous pursuit of a physics bachelors. By the time you transfer to a 4-year, you will be up to speed to what is going on the physics scene. You might know more than your future classmates.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img src="content%5cblog%5cccphysics%5cmax-shilov-phwRbHF6T8Q-unsplash.jpg" alt="classroom" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Obtain the curriculum of BSc Physics program from 2-3 schools that you are interested in. You can usually find this on a physics department website, by emailing an advisor or asking a current student. Ensure a mix of private and public colleges so you can see what classes are common to many programs. Put this list in a spreadsheet or write it on paper. You can now make sure you are taking relevant freshman or sophomore classes and know what to look forward to when you transfer. Bonus if you transfer within a state public system, then it will be easier to compare and all credits that you take must be accepted (Although there may not always be a one-to-one equivalent). Pro tip: community college is a flexible and less expensive way to get those general education credits done and dusted.&lt;/p>
+&lt;p>Also, let your instructors know that you intend to transfer to physics bachelors. They could help point you to further resources.&lt;/p>
+&lt;p>Get research experiences even as a community college student by applying to National Science Foundation (NSF) Research Experiece for Undergraduates (REU) programs. These are typically 8-10 week long research internships that take place in the summer, hosted by universities. Ideslly, they prioritize students who would not get research experience in their home institutions either because their institutions are undergraduate only, don&amp;rsquo;t have faculty performing research in their field of interest. Some community colleges even host their own NSF REUs. Additionally, look out for community college specific research experience programs.&lt;/p>
+&lt;p>These are my tips for getting a good start ona physics bachelors at a community college. If you have any questions, feel free to contact me. !&lt;/p></description></item><item><title>🎉 Easily create your own simple yet highly customizable blog</title><link>http://localhost:1313/blog/get-started/</link><pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/blog/get-started/</guid><description>&lt;p>Welcome 👋&lt;/p>
+&lt;details class="print:hidden xl:hidden" open>
+&lt;summary>Table of Contents&lt;/summary>
+&lt;div class="text-sm">
+&lt;nav id="TableOfContents">
+&lt;ul>
+&lt;li>&lt;a href="#overview">Overview&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#get-started">Get Started&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#crowd-funded-open-source-software">Crowd-funded open-source software&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#-click-here-to-become-a-sponsor-and-help-support-hugo-blox">&lt;a href="https://hugoblox.com/sponsor/">❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a>&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#ecosystem">Ecosystem&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#inspiration">Inspiration&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#features">Features&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#themes">Themes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#license">License&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/nav>
+&lt;/div>
+&lt;/details>
+&lt;h2 id="overview">Overview&lt;/h2>
+&lt;ol>
+&lt;li>The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
+&lt;li>The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong>no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong> and having &lt;strong>flexibility to later add even deeper personalization with HTML and CSS&lt;/strong>&lt;/li>
+&lt;li>You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li>
+&lt;/ol>
+&lt;h3 id="get-started">Get Started&lt;/h3>
+&lt;ul>
+&lt;li>👉
+&lt;/li>
+&lt;li>📚
+&lt;/li>
+&lt;li>💬
+or
+&lt;/li>
+&lt;li>🐦 Twitter:
+#MadeWithHugoBlox&lt;/li>
+&lt;li>💡
+&lt;/li>
+&lt;li>⬆️ &lt;strong>Updating Hugo Blox?&lt;/strong> View the
+and
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="crowd-funded-open-source-software">Crowd-funded open-source software&lt;/h2>
+&lt;p>To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p>
+&lt;h3 id="-click-here-to-become-a-sponsor-and-help-support-hugo-blox">
+&lt;/h3>
+&lt;p>As a token of appreciation for sponsoring, you can &lt;strong>unlock
+awesome rewards and extra features 🦄✨&lt;/strong>&lt;/p>
+&lt;h2 id="ecosystem">Ecosystem&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>
+:&lt;/strong> Automatically import publications from BibTeX&lt;/li>
+&lt;/ul>
+&lt;h2 id="inspiration">Inspiration&lt;/h2>
+&lt;p>
+are building with this template.&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Page builder&lt;/strong> - Create &lt;em>anything&lt;/em> with no-code
+and
+&lt;/li>
+&lt;li>&lt;strong>Edit any type of content&lt;/strong> - Blog posts, publications, talks, slides, projects, and more!&lt;/li>
+&lt;li>&lt;strong>Create content&lt;/strong> in
+,
+, or
+&lt;/li>
+&lt;li>&lt;strong>Plugin System&lt;/strong> - Fully customizable
+&lt;/li>
+&lt;li>&lt;strong>Display Code and Math&lt;/strong> - Code syntax highlighting and LaTeX math supported&lt;/li>
+&lt;li>&lt;strong>Integrations&lt;/strong> -
+,
+, Maps, Contact Forms, and more!&lt;/li>
+&lt;li>&lt;strong>Beautiful Site&lt;/strong> - Simple and refreshing one-page design&lt;/li>
+&lt;li>&lt;strong>Industry-Leading SEO&lt;/strong> - Help get your website found on search engines and social media&lt;/li>
+&lt;li>&lt;strong>Media Galleries&lt;/strong> - Display your images and videos with captions in a customizable gallery&lt;/li>
+&lt;li>&lt;strong>Mobile Friendly&lt;/strong> - Look amazing on every screen with a mobile friendly version of your site&lt;/li>
+&lt;li>&lt;strong>Multi-language&lt;/strong> - 35+ language packs including English, 中文, and Português&lt;/li>
+&lt;li>&lt;strong>Multi-user&lt;/strong> - Each author gets their own profile page&lt;/li>
+&lt;li>&lt;strong>Privacy Pack&lt;/strong> - Assists with GDPR&lt;/li>
+&lt;li>&lt;strong>Stand Out&lt;/strong> - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li>
+&lt;li>&lt;strong>One-Click Deployment&lt;/strong> - No servers. No databases. Only files.&lt;/li>
+&lt;/ul>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;p>Hugo Blox and its templates come with &lt;strong>automatic day (light) and night (dark) mode&lt;/strong> built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.&lt;/p>
+&lt;p>
+for your site. Themes are fully customizable.&lt;/p>
+&lt;h2 id="license">License&lt;/h2>
+&lt;p>Copyright 2016-present
+.&lt;/p>
+&lt;p>Released under the
+license.&lt;/p></description></item></channel></rss>
