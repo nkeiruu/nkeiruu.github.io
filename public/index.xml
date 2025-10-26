@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home | Nkeiru C.</title><link>http://localhost:1313/</link><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><description>Home</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>http://localhost:1313/media/icon_hu_a0dc1595079f9789.png</url><title>Home</title><link>http://localhost:1313/</link></image><item><title>Particle Accelerator Summer Camp</title><link>http://localhost:1313/blog/uspas/</link><pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/blog/uspas/</guid><description>&lt;p>-&lt;/p>
+&lt;p>In August 2025, I made the journey to Northern California for the long-anticipated US Particle Accelerator School (USPAS). It is 44 year old tradition in the particle accelerator community. It packs a punch, delivering semester long university courses in just two weeks. Most are actual credit courses which can be transferred from the sponsoring university to your own institution. Topics offered every session are the undergraduate Fundamentals of Accelerator Physics and its graduate equivalent: Accelerator Physics. Specialized courses are just one week with Cryogenic Systems and Plasma Acceleration being among them in the summer 2025 session. I opted for Classical Mechanics and Electromagnetism for Accelerator Physics as my very first USPAS course.&lt;/p>
+&lt;p>After sightseeing tour for San Francisco, I headed for Rohenert Park, 1.5 hours from the Bay. Arriving, I loved the Mediterranean Revival style hotel with outdoor pool, hot tub and pickleball courts but could not help but wonder about the far-flung location not seemingly connected to any accelerator facility. Then next morning, class began with the normal introductions and overviews. We went through topics such as simple harmonic oscillators, the Lagrangian and canonical transformations. It was gratifying to get an idea why finding the ever elusive generating function was important in a context that I cared about. It was a great class with quality instructors, but I personally found I did not have the confidence to continue the course. This was interesting case for me, considering the number of times I had the same feelings in my physics undergraduate studies yet stayed the course and eventually prevailed.&lt;/p>
+&lt;p>The USPAS officials were very receptive and I was able to switch into a course called Concepts of Accelerator Science. “Concepts? Yes, that’s exactly what I need” Part of the reason seeking employment as an accelerator operator was to learn about this field from the ground up. I wanted to push the buttons as well as study the equations that make the accelerator go round. This class had an aggressively scholarly approach. “Understand, question and discuss to your hearts content… we have the time!”&lt;/p>
+&lt;p>Some highlights were:&lt;/p>
+&lt;ul>
+&lt;li>Layman framing of common beam physics terms like emittance and Twiss parameters which made them more than just symbols and formulas for me.&lt;/li>
+&lt;li>Getting an overview and comparison of particle sources particularly photocathodes. Learning that they set the floor for emittance.&lt;/li>
+&lt;li>Learning the general “truths” about supporting system like water cooling, cryogenic and safety/shielding, so now I know more about them in general and not the peculiarities my own facility. For example, I did not know new synchrotrons are designed with no exposed conductors, which reduced the safety burden.&lt;/li>
+&lt;li>Side conversation with a hardware engineer about the basics of ASICs and FFPGAs. Things like timing and trigger systems depend on chips. Custom ones (ASICS) are more expensive than paying a few engineers to set up programmable ones (FFPGA)&lt;/li>
+&lt;/ul>
+&lt;p>Not only did we discuss, there were also had hands on lab exercises. The radiofrequency cavity laboratory was my absolute favourite because I cleared up some misunderstanding I had about these very essential components of particle accelerators.&lt;/p>
+&lt;p>
+&lt;figure id="figure-cookie-box-had-a-similar-resonant-frequency-of-12ghz-in-tm010-mode-to-the-actual-rf-cavity-behind-it-crafted-by-folks-at-ornl-but-has-a-much-worse-quality-factor-at-just-30-compared-to-the-ornl-cavity-8000">
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img alt="Cookie box radiofrequency cavity" srcset="
+/blog/uspas/pillbox_hu_45b6c7352810cc1.webp 400w,
+/blog/uspas/pillbox_hu_b05d78ee8f3981d1.webp 760w,
+/blog/uspas/pillbox_hu_a8240be641a3ef8c.webp 1200w"
+src="http://localhost:1313/blog/uspas/pillbox_hu_45b6c7352810cc1.webp"
+width="570"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Cookie box had a similar resonant frequency of 1.2Ghz in TM010 mode to the actual RF cavity behind it (crafted by folks at ORNL) but has a much worse quality factor at just 30 compared to the ORNL cavity ~8000
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;p>The week ended with a group presentation. My group did a comparison between the facilities that we work at. It was quite interesting to get a glimpse of what the defense world is like and conversely my teammates were intrigued by the openness and accessibility of a publicly funded user facility.
+Overall, what they about USPAS is true; it is an intense academic experience. I do look forward to doing the for-credit courses, either at USPAS or trying CERN’s version in Europe. My advice for when I eventually do: Preview the course content as much as possible, work with others and you catch the hot tub when you can.&lt;/p></description></item><item><title>NSBP Physics Education Research</title><link>http://localhost:1313/events/nsbp_per/</link><pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/events/nsbp_per/</guid><description>&lt;p>Insighful look into physics education research and different ways to pursue this career paths.
+I Asked a question about the effectiveness of group study. It was agreed to be generally effective but one speaker warned of instructors entirely relying on it.&lt;/p></description></item><item><title>What if your local government used the earth to heat and cool homes?.</title><link>http://localhost:1313/blog/municipal-tens/</link><pubDate>Tue, 16 Sep 2025 00:01:26 -0400</pubDate><guid>http://localhost:1313/blog/municipal-tens/</guid><description>&lt;p>Thermal Energy Networks: The Municipal Perspective
+My work as a Clean Energy Intern at the City of Albany, Office of Sustainability&lt;/p>
+&lt;p>With new regulations, an influx in climate funds, and gas and water infrastructure reaching end of life,
+municipalities especially in New York State have a lot of potential to be apart of the thermal energy network/district
+energy space but it requires partnering with the private sector, the non profit sector and most importantly, the community.&lt;/p>
+&lt;p>This is (among many others) the conclusion I came to after researching the question of the role of municipalities in
+the development and operation of thermal energy networks in their communities.&lt;/p>
+&lt;p>This report discusses:&lt;/p>
+&lt;p>-equity concerns and TENs role in climate justice&lt;br>
+-the TEN regulation landscape in New York State&lt;br>
+-potential ownership models&lt;br>
+-TENS and their possible relationship with municipal water &amp;amp; sewer departments&lt;br>
+-a municipalty&amp;rsquo;s possible role in utility company owned TEN (or UTEN)&lt;br>
+-my recommendations for municipalities especially in NYS&lt;/p>
+&lt;p>The crowning achievement of my time as a
+at the
+is this report Thermal Energy Networks: A Municipal Perspective. I wrote it in response to actual questions asked of me by my bosses at the City of Albany and also answered some of my own questions. The audience is any municipal official with report sections relevant to the Public Works official, Sustainability Officer and more. I invite you to read it below.&lt;/p>
+&lt;p>
+&lt;/p></description></item><item><title>The latest accelerator-based science projects uniting nations.</title><link>http://localhost:1313/blog/accelerator-diplomacy/</link><pubDate>Mon, 15 Sep 2025 00:01:26 -0400</pubDate><guid>http://localhost:1313/blog/accelerator-diplomacy/</guid><description>&lt;p>The design, construction and operation of large particle accelerator-based facilities have a special place in science diplomacy. They are complex structures that require the expertise and effort of many professionals who are not likely to be in the same country. Novel accelerator related techniques are created and shared between researchers all over the world. One-of-a-kind equipment is finds new life in facilities separated by land and sea (Read till end to see example). On the heels of attending some insightful webinars, I highlight some proposed accelerator-based facilities that push beyond the frontiers of science and national borders.&lt;/p>
+&lt;h2 id="in-the-balkans-there-is-growing-momentum-behind-a-facility-that-wants-to-kindle-a-new-battle--against-cancer">In the Balkans, there is growing momentum behind a facility that wants to kindle a new battle – against cancer.&lt;/h2>
+&lt;p>During the APS FIP webinar entitled “Beating Cancer with SEEIIST while Shaping Science in South-East Europe”, Dr. Sanja Damjanovic (physicist at GSI and former Minister of Science for Montenegro) , defined science diplomacy as science done by many nations. In the case of SEEIST, these countries are Republic of Albania, Bosnia and Herzegovina, Republic of Bulgaria, Kosovo*, Republic of North Macedonia, Montenegro, Republic of Serbia and Republic of Slovenia.&lt;/p>
+&lt;ul>
+&lt;li>SEEIST notes: ‘This designation is without prejudice to positions on status, and is in line with UNSC 1244 and the ICJ Opinion on the Kosovo Declaration of Independence.’&lt;/li>
+&lt;/ul>
+&lt;div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
+&lt;span class="pr-3 pt-1 text-primary-600 dark:text-primary-300">
+&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z"/>&lt;/svg>
+&lt;/span>
+&lt;span class="dark:text-neutral-300">&lt;ul>
+&lt;li>APS: American Physical Society&lt;/li>
+&lt;li>FIP: Forum oon International Physics
+SEEIST: South Eastern Europe International Institute for Sustainable Technology&lt;/li>
+&lt;/ul>
+&lt;/span>
+&lt;/div>
+&lt;p>SEEIST is a regional research infrastructure institute in southeastern Europe. Since 2017, efforts have been made to envision how SEEIST will collectively achieve goals such as scientific excellence, technology transfer, education and fostering peace through science. After some deliberation, the institute decided it will focus on creating a Hadron Cancer Therapy Centre centered on Biomedical Research with protons and heavy ions. This accelerator-based facility in its design phase but has already garnered national, EU and IAEA support. This project has a lot of promise in promoting international cooperation between countries with thawing relations.&lt;/p>
+&lt;h2 id="the-proposed-international-muon-collider-will-require-an-ever-broader-effort">The proposed international muon collider will require an ever broader effort.&lt;/h2>
+&lt;div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
+&lt;span class="pr-3 pt-1 text-primary-600 dark:text-primary-300">
+&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z"/>&lt;/svg>
+&lt;/span>
+&lt;span class="dark:text-neutral-300">&lt;ul>
+&lt;li>Muons are the heavier siblings of the well-known electron. As I speak, you are probably being showered in muons right now.&lt;/li>
+&lt;li>They are a product of cosmic rays which hit the earth at a rate of 10,000 particles per square meter per second (for 1GeV particles).&lt;/li>
+&lt;/ul>
+&lt;/span>
+&lt;/div>
+&lt;p>With a lifetime of just 2.2 microseconds, the main scientific challenges of harnessing muons in particle accelerators center around accelerating and colliding them before they disappear. The magnets have to be more powerful and the rate at which RF structures accelerate particles have to be higher than ever. However, the challenges would be worth it to achieve record setting collision energies in the 10s of tetra electron-volts (TeV), opening the door to find new physics. On 28 August 2024, young researchers gathered virtually to share their research findings and enthusiasm about the muon collider. (
+) The project has brought together countries from UK, Italy, Germany and France. Projects like this continue cooperation between friendly nations, something which should not be taken for granted.&lt;/p>
+&lt;h2 id="lighting-the-way-for-africas-first-light-source">Lighting the way for Africa&amp;rsquo;s first light source&lt;/h2>
+&lt;p>Finally, no conversation about proposed accelerator-based facilities is complete without talking about the African Light Source (AfLS). Envisioned to be first synchrotron on the continent, the inaugural AfLS conference took place in 2015. Since then, the team behind the efforts has organized several efforts towards its realization. Schools and conferences train African scientists on synchrotron-based techniques. The AfLS steering committee works to gather political support from national governments and pan African organizations. A major prong of current work is the Conceptual Design Report which will outline site, infrastructure and staff requirements of the future facility. The seventh AfLS conference will take place online and in Johannesburg from 18-23 November 2024.&lt;/p>
+&lt;h2 id="home-turf">Home turf&lt;/h2>
+&lt;p>These projects have reminded me of the uniquely global effort it takes to build research-scale particle accelerators. It is part of the reason why I continue to be fascinated by this field. Even in my own duties, as an accelerator operator, I am reminded of this:&lt;/p>
+&lt;p>
+&lt;figure id="figure-cern-sourced-component-of-booster-synchrotron-for-cesr">
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img alt="CERN" srcset="
+/blog/accelerator-diplomacy/cern_hu_90462eaa2efcaa18.webp 400w,
+/blog/accelerator-diplomacy/cern_hu_7f47938bace653cd.webp 760w,
+/blog/accelerator-diplomacy/cern_hu_c9dc3e0f634681ef.webp 1200w"
+src="http://localhost:1313/blog/accelerator-diplomacy/cern_hu_90462eaa2efcaa18.webp"
+width="742"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+CERN sourced component of booster synchrotron for CESR
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;p>Science diplomacy not only fosters cooperation between countries with otherwise frosty relations, but it also allows nations to achieve goals that could not reach on their own. Particle accelerator-based facilities are usual vehicles for science diplomacy usually due to high infrastructure and human capacity requirements and it is part of the reason why I enjoy the field!&lt;/p>
+&lt;p>If you wish to keep up with any of the projects above and more, check out the links below:
+&lt;/p></description></item><item><title>Tips for starting a physics major at community college</title><link>http://localhost:1313/blog/community-college-physics/</link><pubDate>Sun, 17 Aug 2025 00:01:26 -0400</pubDate><guid>http://localhost:1313/blog/community-college-physics/</guid><description>&lt;h2 id="looking-to-study-physics-why-not-start-at-community-college">Looking to study physics? Why not start at community college?&lt;/h2>
+&lt;p>Whether you are in secondary school, an adult looking to return to college, or already in community college, this article will give you the inside scoop on how to do it. This article is most relevant to readers in the United States.&lt;/p>
+&lt;h2 id="why-commmunity-college">Why commmunity college?&lt;/h2>
+&lt;ol>
+&lt;li>It is cheaper than doing a degree only a 4-year college.&lt;/li>
+&lt;li>It is more accessible to those who need to maintain full or part time jobs.&lt;/li>
+&lt;li>You can still access oppurtunities to do physics research through summer internships&lt;/li>
+&lt;/ol>
+&lt;h2 id="now-let-me-play-devils-advocate-why-not-commmunity-college">Now let me play devil&amp;rsquo;s advocate. Why not commmunity college?&lt;/h2>
+&lt;ol>
+&lt;li>Nothing makes more financial sense than a full ride scholarship to a 4-year college.&lt;/li>
+&lt;li>Harder to get in-semester physics research experiences.&lt;/li>
+&lt;li>Likely a lack of peers also pursuing physics.&lt;/li>
+&lt;/ol>
+&lt;h2 id="alright-we-have-both-sides-here-are-some-of-my-recommendations-on-what-to-do-in-community-college-if-you-have-your-eye-on-transferring-into-a-physics-major-in-university">Alright, we have both sides, here are some of my recommendations on what to do in community college if you have your eye on transferring into a physics major in university.&lt;/h2>
+&lt;p>Join the larger physics community on day one. Organizations like the American Physical Society (which supports the National Mentoring Community and the Conference of Women in Physics), the National Society of Black Physicsists, American Association of Physics Teachers, Society of Indigenous Physicists, the American Astronomical Society, the National Society of Hispanic Physicsists and more have student sections which you can join (for free or low cost) no matter where you go to college. Getting involved in the student section of a national organization will help you see the bigger picture and connect with more experienced physicists. It can also keep you motivated in the arduous pursuit of a physics bachelors. By the time you transfer to a 4-year, you will be up to speed to what is going on the physics scene. You might know more than your future classmates.&lt;/p>
+&lt;p>Obtain the curriculum of BSc Physics program from 2-3 schools that you are interested in. You can usually find this on a physics department website, by emailing an advisor or asking a current student. Ensure a mix of private and public colleges so you can see what classes are common to many programs. Put this list in a spreadsheet or write it on paper. You can now make sure you are taking relevant freshman or sophomore classes and know what to look forward to when you transfer. Bonus if you transfer within a state public system, then it will be easier to compare and all credits that you take must be accepted (Although there may not always be a one-to-one equivalent). Pro tip: community college is a flexible and less expensive way to get those general education credits done and dusted.&lt;/p>
+&lt;p>Also, let your instructors know that you intend to transfer to physics bachelors. They could help point you to further resources.&lt;/p>
+&lt;p>Get research experiences even as a community college student by applying to National Science Foundation (NSF) Research Experiece for Undergraduates (REU) programs. These are typically 8-10 week long research internships that take place in the summer, hosted by universities. Ideslly, they prioritize students who would not get research experience in their home institutions either because their institutions are undergraduate only, don&amp;rsquo;t have faculty performing research in their field of interest. Some community colleges even host their own NSF REUs. Additionally, look out for community college specific research experience programs.&lt;/p>
+&lt;p>These are my tips for getting a good start on a physics bachelors at a community college. If you have any questions, feel free to contact me. !&lt;/p></description></item><item><title>Uses</title><link>http://localhost:1313/uses/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/uses/</guid><description>&lt;p>The idea of a Uses page is to tell you about the stuff I use.&lt;/p>
+&lt;p>Make sure to check out
+for a list of everyone&amp;rsquo;s Uses pages!&lt;/p>
+&lt;p>I &lt;del>often get&lt;/del> have never been asked about what software or hardware I use, so this page will serve as a living document and a place to point curious readers to when I get asked.&lt;/p>
+&lt;h2 id="website">Website&lt;/h2>
+&lt;ul>
+&lt;li>
+(see the tutorial on
+)&lt;/li>
+&lt;/ul>
+&lt;h2 id="editor--terminal">Editor + Terminal&lt;/h2>
+&lt;ul>
+&lt;li>
+is my current editor&lt;/li>
+&lt;li>Firefox is my main browser&lt;/li>
+&lt;li>Git Bash is my terminal&lt;/li>
+&lt;/ul></description></item></channel></rss>
