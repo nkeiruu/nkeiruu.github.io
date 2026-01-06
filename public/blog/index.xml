@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Nkeiru C.</title><link>http://localhost:1313/blog/</link><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml"/><description>Blog</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Sep 2025 00:01:26 -0400</lastBuildDate><image><url>http://localhost:1313/media/icon_hu_a0dc1595079f9789.png</url><title>Blog</title><link>http://localhost:1313/blog/</link></image><item><title>What if your local government used the earth to heat and cool homes?.</title><link>http://localhost:1313/blog/municipal-tens/</link><pubDate>Tue, 16 Sep 2025 00:01:26 -0400</pubDate><guid>http://localhost:1313/blog/municipal-tens/</guid><description>&lt;p>Thermal Energy Networks: The Municipal Perspective
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Nkeiru C.</title><link>http://localhost:1313/blog/</link><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml"/><description>Blog</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate><image><url>http://localhost:1313/media/icon_hu_a0dc1595079f9789.png</url><title>Blog</title><link>http://localhost:1313/blog/</link></image><item><title>Particle Accelerator Summer Camp</title><link>http://localhost:1313/blog/uspas/</link><pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/blog/uspas/</guid><description>&lt;p>-&lt;/p>
+&lt;p>In August 2025, I made the journey to Northern California for the long-anticipated US Particle Accelerator School (USPAS). It is 44 year old tradition in the particle accelerator community. It packs a punch, delivering semester long university courses in just two weeks. Most are actual credit courses which can be transferred from the sponsoring university to your own institution. Topics offered every session are the undergraduate Fundamentals of Accelerator Physics and its graduate equivalent: Accelerator Physics. Specialized courses are just one week with Cryogenic Systems and Plasma Acceleration being among them in the summer 2025 session. I opted for Classical Mechanics and Electromagnetism for Accelerator Physics as my very first USPAS course.&lt;/p>
+&lt;p>After sightseeing tour for San Francisco, I headed for Rohenert Park, 1.5 hours from the Bay. Arriving, I loved the Mediterranean Revival style hotel with outdoor pool, hot tub and pickleball courts but could not help but wonder about the far-flung location not seemingly connected to any accelerator facility. Then next morning, class began with the normal introductions and overviews. We went through topics such as simple harmonic oscillators, the Lagrangian and canonical transformations. It was gratifying to get an idea why finding the ever elusive generating function was important in a context that I cared about. It was a great class with quality instructors, but I personally found I did not have the confidence to continue the course. This was interesting case for me, considering the number of times I had the same feelings in my physics undergraduate studies yet stayed the course and eventually prevailed.&lt;/p>
+&lt;p>The USPAS officials were very receptive and I was able to switch into a course called Concepts of Accelerator Science. “Concepts? Yes, that’s exactly what I need” Part of the reason seeking employment as an accelerator operator was to learn about this field from the ground up. I wanted to push the buttons as well as study the equations that make the accelerator go round. This class had an aggressively scholarly approach. “Understand, question and discuss to your hearts content… we have the time!”&lt;/p>
+&lt;p>Some highlights were:&lt;/p>
+&lt;ul>
+&lt;li>Layman framing of common beam physics terms like emittance and Twiss parameters which made them more than just symbols and formulas for me.&lt;/li>
+&lt;li>Getting an overview and comparison of particle sources particularly photocathodes. Learning that they set the floor for emittance.&lt;/li>
+&lt;li>Learning the general “truths” about supporting system like water cooling, cryogenic and safety/shielding, so now I know more about them in general and not the peculiarities my own facility. For example, I did not know new synchrotrons are designed with no exposed conductors, which reduced the safety burden.&lt;/li>
+&lt;li>Side conversation with a hardware engineer about the basics of ASICs and FFPGAs. Things like timing and trigger systems depend on chips. Custom ones (ASICS) are more expensive than paying a few engineers to set up programmable ones (FFPGA)&lt;/li>
+&lt;/ul>
+&lt;p>Not only did we discuss, there were also had hands on lab exercises. The radiofrequency cavity laboratory was my absolute favourite because I cleared up some misunderstanding I had about these very essential components of particle accelerators.&lt;/p>
+&lt;p>
+&lt;figure id="figure-cookie-box-had-a-similar-resonant-frequency-of-12ghz-in-tm010-mode-to-the-actual-rf-cavity-behind-it-crafted-by-folks-at-ornl-but-has-a-much-worse-quality-factor-at-just-30-compared-to-the-ornl-cavity-8000">
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img alt="Cookie box radiofrequency cavity" srcset="
+/blog/uspas/pillbox_hu_45b6c7352810cc1.webp 400w,
+/blog/uspas/pillbox_hu_b05d78ee8f3981d1.webp 760w,
+/blog/uspas/pillbox_hu_a8240be641a3ef8c.webp 1200w"
+src="http://localhost:1313/blog/uspas/pillbox_hu_45b6c7352810cc1.webp"
+width="570"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Cookie box had a similar resonant frequency of 1.2Ghz in TM010 mode to the actual RF cavity behind it (crafted by folks at ORNL) but has a much worse quality factor at just 30 compared to the ORNL cavity ~8000
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;p>The week ended with a group presentation. My group did a comparison between the facilities that we work at. It was quite interesting to get a glimpse of what the defense world is like and conversely my teammates were intrigued by the openness and accessibility of a publicly funded user facility.
+Overall, what they about USPAS is true; it is an intense academic experience. I do look forward to doing the for-credit courses, either at USPAS or trying CERN’s version in Europe. My advice for when I eventually do: Preview the course content as much as possible, work with others and you catch the hot tub when you can.&lt;/p></description></item><item><title>What if your local government used the earth to heat and cool homes?.</title><link>http://localhost:1313/blog/municipal-tens/</link><pubDate>Tue, 16 Sep 2025 00:01:26 -0400</pubDate><guid>http://localhost:1313/blog/municipal-tens/</guid><description>&lt;p>Thermal Energy Networks: The Municipal Perspective
 My work as a Clean Energy Intern at the City of Albany, Office of Sustainability&lt;/p>
 &lt;p>With new regulations, an influx in climate funds, and gas and water infrastructure reaching end of life,
 municipalities especially in New York State have a lot of potential to be apart of the thermal energy network/district
@@ -87,68 +115,4 @@ CERN sourced component of booster synchrotron for CESR
 &lt;p>Obtain the curriculum of BSc Physics program from 2-3 schools that you are interested in. You can usually find this on a physics department website, by emailing an advisor or asking a current student. Ensure a mix of private and public colleges so you can see what classes are common to many programs. Put this list in a spreadsheet or write it on paper. You can now make sure you are taking relevant freshman or sophomore classes and know what to look forward to when you transfer. Bonus if you transfer within a state public system, then it will be easier to compare and all credits that you take must be accepted (Although there may not always be a one-to-one equivalent). Pro tip: community college is a flexible and less expensive way to get those general education credits done and dusted.&lt;/p>
 &lt;p>Also, let your instructors know that you intend to transfer to physics bachelors. They could help point you to further resources.&lt;/p>
 &lt;p>Get research experiences even as a community college student by applying to National Science Foundation (NSF) Research Experiece for Undergraduates (REU) programs. These are typically 8-10 week long research internships that take place in the summer, hosted by universities. Ideslly, they prioritize students who would not get research experience in their home institutions either because their institutions are undergraduate only, don&amp;rsquo;t have faculty performing research in their field of interest. Some community colleges even host their own NSF REUs. Additionally, look out for community college specific research experience programs.&lt;/p>
-&lt;p>These are my tips for getting a good start on a physics bachelors at a community college. If you have any questions, feel free to contact me. !&lt;/p></description></item><item><title>✅ Manage your projects</title><link>http://localhost:1313/blog/project-management/</link><pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/blog/project-management/</guid><description>&lt;p>Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p>
-&lt;h2 id="ideation">Ideation&lt;/h2>
-&lt;p>Hugo Blox supports a Markdown extension for mindmaps.&lt;/p>
-&lt;p>Simply insert a Markdown code block labelled as &lt;code>markmap&lt;/code> and optionally set the height of the mindmap as shown in the example below.&lt;/p>
-&lt;p>Mindmaps can be created by simply writing the items as a Markdown list within the &lt;code>markmap&lt;/code> code block, indenting each item to create as many sub-levels as you need:&lt;/p>
-&lt;div class="highlight">
-&lt;pre class="chroma">
-&lt;code>
-```markmap {height="200px"}
-- Hugo Modules
-- Hugo Blox
-- blox-plugins-netlify
-- blox-plugins-netlify-cms
-- blox-plugins-reveal
-```
-&lt;/code>
-&lt;/pre>
-&lt;/div>
-&lt;p>renders as&lt;/p>
-&lt;div class="markmap" style="height: 200px;">
-&lt;pre>- Hugo Modules
-- Hugo Blox
-- blox-plugins-netlify
-- blox-plugins-netlify-cms
-- blox-plugins-reveal&lt;/pre>
-&lt;/div>
-&lt;h2 id="diagrams">Diagrams&lt;/h2>
-&lt;p>Hugo Blox supports the &lt;em>Mermaid&lt;/em> Markdown extension for diagrams.&lt;/p>
-&lt;p>An example &lt;strong>Gantt diagram&lt;/strong>:&lt;/p>
-&lt;pre>&lt;code>```mermaid
-gantt
-section Section
-Completed :done, des1, 2014-01-06,2014-01-08
-Active :active, des2, 2014-01-07, 3d
-Parallel 1 : des3, after des1, 1d
-Parallel 2 : des4, after des1, 1d
-Parallel 3 : des5, after des3, 1d
-Parallel 4 : des6, after des4, 1d
-```
-&lt;/code>&lt;/pre>
-&lt;p>renders as&lt;/p>
-&lt;div class="mermaid">gantt
-section Section
-Completed :done, des1, 2014-01-06,2014-01-08
-Active :active, des2, 2014-01-07, 3d
-Parallel 1 : des3, after des1, 1d
-Parallel 2 : des4, after des1, 1d
-Parallel 3 : des5, after des3, 1d
-Parallel 4 : des6, after des4, 1d
-&lt;/div>
-&lt;h2 id="todo-lists">Todo lists&lt;/h2>
-&lt;p>You can even write your todo lists in Markdown too:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">&lt;span class="k">- [x]&lt;/span> Write math example
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">- [x]&lt;/span> Write diagram example
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">- [ ]&lt;/span> Do something else
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
-&lt;ul>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Write math example
-&lt;ul>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Write diagram example&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Do something else&lt;/li>
-&lt;/ul>
-&lt;h2 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h2></description></item></channel></rss>
+&lt;p>These are my tips for getting a good start on a physics bachelors at a community college. If you have any questions, feel free to contact me. !&lt;/p></description></item></channel></rss>
