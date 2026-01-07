@@ -16,10 +16,11 @@ a new project in a new repo or preserve the old one. I went with the latter beca
 new project.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Download (Hugo) [https://gohugo.io/installation/]&lt;/p>
+&lt;p>Download
+&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Choose a theme (the fun part!). This took some time but eventually settled on {Hugo Blox](hugoblox.com) because of the variety of customization and embed options.&lt;/p>
+&lt;p>Choose a theme (the fun part!). This took some time but eventually settled on[https://hugoblox.com](Hugo Blox) because of the variety of customization and embed options.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>To add a theme, I had to add a submodule, a Github concept to me that I am still hazy on. Essentially, it is cloning another Github repo within a repo of your own. I ended up moving the site files out of submodule because I was having issues with publishing the site. Later, I came to the conclusion that it may have been due to the extraneous old_site folder that I added to the submodule. I think the downside of removing the submodule is that I cannot receive updates from the theme&amp;rsquo;s original Github repo.&lt;/p>
