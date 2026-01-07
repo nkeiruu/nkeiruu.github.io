@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Nkeiru C.</title><link>http://localhost:1313/blog/</link><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml"/><description>Blog</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate><image><url>http://localhost:1313/media/icon_hu_a0dc1595079f9789.png</url><title>Blog</title><link>http://localhost:1313/blog/</link></image><item><title>Particle Accelerator Summer Camp</title><link>http://localhost:1313/blog/uspas/</link><pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/blog/uspas/</guid><description>&lt;p>-&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Nkeiru C.</title><link>http://localhost:1313/blog/</link><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml"/><description>Blog</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jan 2026 00:00:00 +0000</lastBuildDate><image><url>http://localhost:1313/media/icon_hu_a0dc1595079f9789.png</url><title>Blog</title><link>http://localhost:1313/blog/</link></image><item><title>I finally decided on a software framework for my website</title><link>http://localhost:1313/blog/switch-to-hugo/</link><pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/blog/switch-to-hugo/</guid><description>&lt;p>I recently switched from using plain HTML and CSS files to using the Hugo framework for nkeiru.com/nkeirucu.com.&lt;br>
+In this post, I will talk briefly about why I made the switch, the process of switching and what I like and dislike so far.
+I want to document the technical steps of switching to Hugo for my own reference and others including mistakes I made.&lt;/p>
+&lt;p>Deciding to want to have a personal website was easy.
+Its is a place on the internet to tell my own professional story
+rather than have random social media profiles and articles tell an incomplete story. Deciding, however, what software or framework to use is not easy.
+There is an overwheming amount of options even among the free stuff. Since I have some programming literacy and often like to
+see how things work from the ground up, I decided to play around with some HTML and CSS files hosted in an eponymous github repo
+which also takes care of hosting and publishing site on the internet. As my site grew, that became cumbersome so I looked around for something free, lightweight and well documented.
+Hugo was my final choice. I can write content in markdown, configure page settings yaml/toml in the header and get a static site generator. There is the added benefit that it is fast.&lt;/p>
+&lt;p>&lt;strong>Overview of my process&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Clean up files from the old site by putting into a folder in existing Github repo dedicated to the site. I probably put too much thought into how I could preserve my hosting set up (or workflow?) with Github. Either set up
+a new project in a new repo or preserve the old one. I went with the latter because while it was a new framework, this was not an entirely
+new project.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Download (Hugo) [https://gohugo.io/installation/]&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Choose a theme (the fun part!). This took some time but eventually settled on {Hugo Blox](hugoblox.com) because of the variety of customization and embed options.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>To add a theme, I had to add a submodule, a Github concept to me that I am still hazy on. Essentially, it is cloning another Github repo within a repo of your own. I ended up moving the site files out of submodule because I was having issues with publishing the site. Later, I came to the conclusion that it may have been due to the extraneous old_site folder that I added to the submodule. I think the downside of removing the submodule is that I cannot receive updates from the theme&amp;rsquo;s original Github repo.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Then I got to customizing. Blocks, simply being UI features, are added by copy and pasting YAML templates into the front matter. I plan to find excuses to use as many block as I can!&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>A selection of the most frustrating mistakes I made and their simple fixes&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Installing the wrong version of Hugo: I originally downloaded Hugo Basic and the theme I downloaded required Hugo Extended. This is probably a hyperspecific mistake that only I could make but if you run into issues publishing the site, its worth checking.&lt;/li>
+&lt;li>Blox not showing up: Hugo automatically &amp;ldquo;refreshes&amp;rdquo; when you make a change. I tried add a new block to the landing page and I kept getting error after error in the browser. Eventually I stopped the server and restarted the site and the changes appeared. Moral of the story is don&amp;rsquo;t pay too much attention to the error messages in the local Hugo server.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>What I dislike&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>I can&amp;rsquo;t find documrnation about the yaml/toml keywords. It is possible I haven&amp;rsquo;t look hard enough.&lt;/li>
+&lt;li>Using toml/yaml. I need to switch to yaml/toml. I love me some Python but it doesn&amp;rsquo;t make relying on indentation any less painful. &lt;del>Oh how we have regressed since Fortran&lt;/del>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>What I like&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>With options to embed audio, video, Latex and even minmaps with Mermaid, Hugo Blox theme allows various ways to showcase your work and receive comments (with Disqus). You can write a blog, make a mini course or showcase your code by embedding a Jupyter notebook. I can&amp;rsquo;t wait to see what I come up with.&lt;/li>
+&lt;/ul></description></item><item><title>Particle Accelerator Summer Camp</title><link>http://localhost:1313/blog/uspas/</link><pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/blog/uspas/</guid><description>&lt;p>-&lt;/p>
 &lt;p>In August 2025, I made the journey to Northern California for the long-anticipated US Particle Accelerator School (USPAS). It is 44 year old tradition in the particle accelerator community. It packs a punch, delivering semester long university courses in just two weeks. Most are actual credit courses which can be transferred from the sponsoring university to your own institution. Topics offered every session are the undergraduate Fundamentals of Accelerator Physics and its graduate equivalent: Accelerator Physics. Specialized courses are just one week with Cryogenic Systems and Plasma Acceleration being among them in the summer 2025 session. I opted for Classical Mechanics and Electromagnetism for Accelerator Physics as my very first USPAS course.&lt;/p>
 &lt;p>After sightseeing tour for San Francisco, I headed for Rohenert Park, 1.5 hours from the Bay. Arriving, I loved the Mediterranean Revival style hotel with outdoor pool, hot tub and pickleball courts but could not help but wonder about the far-flung location not seemingly connected to any accelerator facility. Then next morning, class began with the normal introductions and overviews. We went through topics such as simple harmonic oscillators, the Lagrangian and canonical transformations. It was gratifying to get an idea why finding the ever elusive generating function was important in a context that I cared about. It was a great class with quality instructors, but I personally found I did not have the confidence to continue the course. This was interesting case for me, considering the number of times I had the same feelings in my physics undergraduate studies yet stayed the course and eventually prevailed.&lt;/p>
 &lt;p>The USPAS officials were very receptive and I was able to switch into a course called Concepts of Accelerator Science. “Concepts? Yes, that’s exactly what I need” Part of the reason seeking employment as an accelerator operator was to learn about this field from the ground up. I wanted to push the buttons as well as study the equations that make the accelerator go round. This class had an aggressively scholarly approach. “Understand, question and discuss to your hearts content… we have the time!”&lt;/p>
